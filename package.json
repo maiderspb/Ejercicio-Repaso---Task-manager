@@ -1,0 +1,30 @@
+{
+  "name": "ejercicio-repaso---task-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiderspb/Ejercicio-Repaso---Task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiderspb/Ejercicio-Repaso---Task-manager/issues"
+  },
+  "homepage": "https://github.com/maiderspb/Ejercicio-Repaso---Task-manager#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
